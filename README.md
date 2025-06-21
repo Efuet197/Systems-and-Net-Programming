@@ -3,7 +3,7 @@ This repository contains various lab assignments completed as part of my System 
 
 Lab 1: Process Creation and Pipes
 - Usage of `fork()`, `getpid()`, and unnamed pipes.
-- 
+  
  Lab 2: Process Synchronization
 - Demonstrating parent-child sync using `wait()` and multiple processes.
 
